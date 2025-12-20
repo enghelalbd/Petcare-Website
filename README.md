@@ -1,21 +1,41 @@
-# React + Vite
+# WarmPaws – Pet Care in Winter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Live Link
 
-Currently, two official plugins are available:
+[https://warmpaws.pages.dev/](https://warmpaws.pages.dev/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Purpose
 
-## React Compiler
+WarmPaws is a cozy winter care platform for pet owners. It helps users explore local pet services, grooming options, and expert tips to keep their furry friends safe and warm during winter.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Key Features
 
-## Expanding the ESLint configuration
+- Responsive design for mobile, tablet, and desktop
+- Firebase authentication (email/password + Google login)
+- Protected routes for service details and profile
+- Dynamic service data loaded from JSON file
+- Winter care tips and expert vet sections
+- Update profile and reset password features
+- Toast notifications for success/error messages
+- SPA behavior with no reload errors
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### NPM Packages Used
 
-## npm packages
+- firebase
+- react-router-dom
+- tailwindcss
+- daisyui
+- animate.css
+- react-hot-toast
 
-react-toastify
-framer-motion
+### Environment Variables
+
+Firebase config is stored securely using `.env` file and accessed via Vite environment variables.
+
+### Hosting
+
+The project is hosted on Firebase ensuring proper route handling and authorized domain setup.
+
+### Author
+
+Developed by Meraj

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Limit Outdoor Time",
+    "description": "Avoid long walks in freezing temperatures. Short, frequent walks keep pets warm and safe."
+  },
+  {
+    "id": 2,
+    "title": "Protect Their Paws",
+    "description": "Use pet-safe booties or paw balms to prevent frostbite and dryness caused by snow and salt."
+  },
+  {
+    "id": 3,
+    "title": "Keep Them Dry",
+    "description": "Always dry your pet’s coat and paws after coming inside to avoid chills or skin irritation."
+  },
+  {
+    "id": 4,
+    "title": "Warm Bedding Matters",
+    "description": "Provide soft, elevated bedding away from cold floors and drafts. Heated pads can help too!"
+  },
+  {
+    "id": 5,
+    "title": "Adjust Their Diet",
+    "description": "Pets may need a little extra food in winter to maintain body heat, but avoid overfeeding."
+  },
+  {
+    "id": 6,
+    "title": "Watch for Hypothermia Signs",
+    "description": "Shivering, lethargy, or whining can signal that your pet is too cold. Keep them indoors."
+  }
+]

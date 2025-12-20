@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Collins",
+    "specialty": "Pet Nutrition Specialist",
+    "experience": "8 years",
+    "bio": "Sarah focuses on creating winter-friendly diet plans to keep pets energetic and healthy.",
+    "image": "https://i.ibb.co/QjtB27zj/pv-corperate-home-main.png"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Liam Turner",
+    "specialty": "Cold-Weather Health Expert",
+    "experience": "10 years",
+    "bio": "Liam helps pets adapt to seasonal changes and prevent cold-related illnesses.",
+    "image": "https://i.ibb.co/YTwgRYgJ/vet-services-vetco-total-care-lifestyle-img-800x577.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Nguyen",
+    "specialty": "Veterinary Surgeon & Grooming Consultant",
+    "experience": "6 years",
+    "bio": "Emily ensures pets stay clean, comfortable, and injury-free during winter months.",
+    "image": "https://i.ibb.co/hR3R4GPH/image-41557-800.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Carlos Vega",
+    "specialty": "Animal Behaviorist",
+    "experience": "9 years",
+    "bio": "Carlos provides behavioral tips for keeping pets calm and cozy indoors during cold days.",
+    "image": "https://i.ibb.co/1fQgM7qx/image-50831-800.jpg"
+  }
+]
