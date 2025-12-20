@@ -1,9 +1,5 @@
 # WarmPaws – Pet Care in Winter
 
-### Live Link
-
-[https://warmpaws.pages.dev/](https://warmpaws.pages.dev/)
-
 ### Purpose
 
 WarmPaws is a cozy winter care platform for pet owners. It helps users explore local pet services, grooming options, and expert tips to keep their furry friends safe and warm during winter.
@@ -38,4 +34,4 @@ The project is hosted on Firebase ensuring proper route handling and authorized 
 
 ### Author
 
-Developed by Meraj
+Developed by Helal
