@@ -37,5 +37,5 @@ The project is hosted on Firebase ensuring proper route handling and authorized 
 Developed by Helal
 
 
-*** Live link
+### Live link 
  https://warmpaws-helal.netlify.app/
