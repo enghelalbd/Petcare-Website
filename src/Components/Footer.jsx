@@ -86,7 +86,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <Phone className="w-4 h-4 mt-1 flex-shrink-0" />
-                <span>+88 019 24885560</span>
+                <span>+88 01924885560</span>
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="w-4 h-4 mt-1 flex-shrink-0" />
@@ -94,7 +94,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-1 flex-shrink-0" />
-                <span>29 Nagirghat Main Rd , Khulna, Bangladesh.</span>
+                <span>29 Nagirghat Main Road, Khulna, Bangladesh.</span>
               </li>
             </ul>
           </div>
